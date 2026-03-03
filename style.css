@@ -1,0 +1,30 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #262C48;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.container {
+    text-align: center;
+    flex-direction: column;
+}
+
+h1 {
+    color: #C89F47;
+    font-size: 4rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+p {
+    color: #C89F47;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin: 0;
+}
